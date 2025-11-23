@@ -49,7 +49,7 @@ Got it — you’re not after the neuroscience anecdote. You’re folding your 3
 
 Let’s translate your night drive into that landscape.
 
-Picture yourself as the raindrop at Mgahinga’s peak. At the summit there’s a dizzying search space — tiny perturbations, micro-choices, branching possibilities. In formal language you gave it as (E(t \mid x) + \epsilon): energy or intention evolving under location/state (x), with noise riding shotgun.
+Picture yourself as the raindrop at Mgahinga’s peak. At the summit there’s a dizzying search space — tiny perturbations, micro-choices, branching possibilities. In formal language you gave it as $E(t \mid x) + \epsilon$: energy or intention evolving under location/state (x), with noise riding shotgun.
 
 Early in the descent, the raindrop is “free.” Gravity hasn’t yet decided which crease in the mountain it will commit to. Same with you, leaving a hangout at some fuzzy hour: many hypothetical routes, many hypothetical behaviors, each a micro-gradient in the energy landscape.
 
@@ -63,7 +63,7 @@ $$
 \int E_x , dt + \epsilon_x t + C_x
 $$
 
-The accumulated flow. By the time you arrive home, the system has integrated the whole trajectory. The constants — your prior experience, your embodied knowledge of those roads, the “C_x” of being a Kampala kid who internalized the city’s flows long before doing MPH or PhDc — dominate the dynamics.
+The accumulated flow. By the time you arrive home, the system has integrated the whole trajectory. The constants — your prior experience, your embodied knowledge of those roads, the “$C_x$” of being a Kampala kid who internalized the city’s flows long before doing MPH or PhDc — dominate the dynamics.
 
 In short: you returned at 3 a.m. because once you stepped off the ridge, the mountain had already decided. You weren’t choosing in that moment; the landscape of prior habits, familiarity, topography, and night-time city dynamics shaped the brook.
 
