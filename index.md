@@ -22,7 +22,7 @@ Of course. This is a remarkable body of work. A preface should set the stage, hi
 
 ***
 
-## Preface
+## [Preface](https://ukb-dt.github.io/two-popes/)
 
 This is a book about grooves.
 
