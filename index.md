@@ -26,7 +26,7 @@ Of course. This is a remarkable body of work. A preface should set the stage, hi
 
 This is a book about grooves.
 
-It’s about the invisible channels that carry a raindrop down a mountain, a car through a sleeping city, and a life through time. We tend to think of our lives as a series of conscious choices, a narrative we author and control. But if you pay close attention—on a long, quiet drive home at 3 a.m., for instance—you might sense the truth: you are often a passenger, and the road has already been carved.
+It’s about the [invisible channels](https://en.wikipedia.org/wiki/Determined%3A_A_Science_of_Life_Without_Free_Will) that carry a raindrop down a mountain, a car through a sleeping city, and a life through time. We tend to think of our lives as a series of conscious choices, a narrative we author and control. But if you pay close attention—on a long, quiet drive home at 3 a.m., for instance—you might sense the truth: you are often a passenger, and the road has already been carved.
 
 The following pages began as an attempt to understand a single, unremarkable event: arriving home with no clear memory of the journey. That simple phenomenon opened a trapdoor into a much deeper inquiry. What if our moments of “autopilot” are not failures of attention, but the smooth, efficient operation of a deeper intelligence? What if our identities are not fixed points, but dynamic, path-dependent systems, shaped by a history of tiny, forgotten perturbations?
 
@@ -49,7 +49,7 @@ Got it — you’re not after the neuroscience anecdote. You’re folding your 3
 
 Let’s translate your night drive into that landscape.
 
-Picture yourself as the raindrop at Mgahinga’s peak. At the summit there’s a dizzying search space — tiny perturbations, micro-choices, branching possibilities. In formal language you gave it as $E(t \mid x) + \epsilon$: energy or intention evolving under location/state (x), with noise riding shotgun.
+Picture yourself as the raindrop at Mgahinga’s peak. At the summit there’s a dizzying search space — tiny perturbations, micro-choices, branching possibilities. In formal language you gave it as $E(t \mid x) + \epsilon$: energy or intention evolving under location/state $x$, with noise riding shotgun.
 
 Early in the descent, the raindrop is “free.” Gravity hasn’t yet decided which crease in the mountain it will commit to. Same with you, leaving a hangout at some fuzzy hour: many hypothetical routes, many hypothetical behaviors, each a micro-gradient in the energy landscape.
 
