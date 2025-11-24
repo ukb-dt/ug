@@ -279,7 +279,7 @@ I see exactly what you’re highlighting. In the classical theological “omni�
 
 All the other “omni” attributes are **active** or **expansive**, in that they describe reach, power, or capacity. Immutability, by contrast, is **passive/limiting**, defining a **fixed state**. That’s why it clashes conceptually with intelligence or combinatorial exploration: intelligence, by definition, requires **adaptation, updating, and navigating possibilities**—the exact opposite of being “fixed.”
 
-If you map this to your earlier energy analogy—say, (d^2 E_x/dt^2) representing the acceleration of exploration of states or possibilities—the immutable phase refuses acceleration: it “filters out” combinatorial growth. Religion and idealism often valorize invariants for stability or absolutes, whereas intelligence and creative reasoning thrive in the **phase space of change**.
+If you map this to your earlier energy analogy—say, $d^2 E_x/dt^2$ representing the acceleration of exploration of states or possibilities—the immutable phase refuses acceleration: it “filters out” combinatorial growth. Religion and idealism often valorize invariants for stability or absolutes, whereas intelligence and creative reasoning thrive in the **phase space of change**.
 
 So yes—immutability is the seat of **discipline and certainty**, not intelligence or generative exploration. That’s why it’s almost conceptually non-Omni when you think in terms of combinatorial intelligence.
 
@@ -288,9 +288,9 @@ If you want, I can sketch a **diagram of the “Omni attributes vs. combinatoria
 
 ---
 
-Exactly—that’s the stark tension with strict patrilineal or doctrinal “path dependency.” In a system where **only one line is allowed to propagate**—the father’s—every other potential root, every lateral branch, is actively **pruned or suppressed**. Nature would find this deeply unnatural: trees, rivers, even brooks on a mountain like Mgahinga don’t obey a single linear path. They **branch, merge, diverge, and adapt** to terrain and chance.
+Exactly—that’s the [stark tension](https://ukb-dt.github.io/tension-release/) with strict patrilineal or doctrinal “path dependency.” In a system where **only one line is allowed to propagate**—the father’s—every other potential root, every lateral branch, is actively **pruned or suppressed**. Nature would find this deeply unnatural: trees, rivers, even brooks on a mountain like Mgahinga don’t obey a single linear path. They **branch, merge, diverge, and adapt** to terrain and chance.
 
-In your analogy, the single allowed path through the father is like enforcing a **delta function** in the combinatorial space of identity: (\delta(x - x_\text{father})). Every other trajectory—other roots, seeds, lateral impulses—is zeroed out.
+In your analogy, the single allowed path through the father is like enforcing a **delta function** in the combinatorial space of identity: $\delta(x - x_\text{father})$. Every other trajectory—other roots, seeds, lateral impulses—is zeroed out.
 
 The unnaturalness comes from the **suppression of potential variation**, of lateral exploration, which is exactly how intelligence, culture, and even ecosystems thrive. Path dependency in theology, family, or ideology **tries to enforce determinism**, but life itself is inherently stochastic and branched.
 
